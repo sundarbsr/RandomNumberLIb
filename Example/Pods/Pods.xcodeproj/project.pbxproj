@@ -12,6 +12,7 @@
 		880D623F5DB469DDFFEE62F4C63B3D8C /* Pods-RandomNumberLib_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 60424FEA07D2A22A0510088A392C08C6 /* Pods-RandomNumberLib_Example-dummy.m */; };
 		88E5B73556730374CEB5359E3D3CBB0F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		9776C7172CCF4CCE008A5B0D /* RandomNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9776C7162CCF4CCB008A5B0D /* RandomNumber.swift */; };
+		9776C7192CCF6984008A5B0D /* Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9776C7182CCF6984008A5B0D /* Random.swift */; };
 		9CEAFADE9D35C6EFE0315B88B75D65C8 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B3D20B2D21504C03CC90547E3E3800 /* ReplaceMe.swift */; };
 		A85791AF5DD6AE5CB909B4E18D5B079C /* RandomNumberLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C1D647522451C05C153D451C5EC07556 /* RandomNumberLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BFADB4770DA1958C54ECDD399722F993 /* RandomNumberLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAEE5D0F61F31FF6A6E2924BD761EFF /* RandomNumberLib-dummy.m */; };
@@ -58,6 +59,7 @@
 		8F1AB4FBC2C573A3879895F144548F28 /* Pods-RandomNumberLib_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RandomNumberLib_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		96AEED812F054A4560DA2BF237B921D1 /* Pods-RandomNumberLib_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RandomNumberLib_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		9776C7162CCF4CCB008A5B0D /* RandomNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomNumber.swift; sourceTree = "<group>"; };
+		9776C7182CCF6984008A5B0D /* Random.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Random.swift; sourceTree = "<group>"; };
 		97EAFDABE208645E94F978EB13648717 /* RandomNumberLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "RandomNumberLib-Info.plist"; sourceTree = "<group>"; };
 		987CA08E9F71A712E786AD17231A04D0 /* Pods-RandomNumberLib_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RandomNumberLib_Tests-dummy.m"; sourceTree = "<group>"; };
 		9BE7F4B5D0F5CB227FC15A0C0DF25159 /* Pods-RandomNumberLib_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-RandomNumberLib_Example.modulemap"; sourceTree = "<group>"; };
@@ -218,6 +220,7 @@
 			isa = PBXGroup;
 			children = (
 				9776C7162CCF4CCB008A5B0D /* RandomNumber.swift */,
+				9776C7182CCF6984008A5B0D /* Random.swift */,
 				54B3D20B2D21504C03CC90547E3E3800 /* ReplaceMe.swift */,
 				9E58EE98578ED06985A1D7DC59074FCB /* Pod */,
 				37341057F8D7E68C62F0EA4420D3B32A /* Support Files */,
@@ -387,6 +390,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9776C7172CCF4CCE008A5B0D /* RandomNumber.swift in Sources */,
+				9776C7192CCF6984008A5B0D /* Random.swift in Sources */,
 				BFADB4770DA1958C54ECDD399722F993 /* RandomNumberLib-dummy.m in Sources */,
 				9CEAFADE9D35C6EFE0315B88B75D65C8 /* ReplaceMe.swift in Sources */,
 			);
