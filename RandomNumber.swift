@@ -7,8 +7,8 @@
 
 import Foundation
 
-class RandomNumber {
-    init(){}
+public class RandomNumber {
+    public init(){}
     
     public func randomNumbers() -> Int {
         return Int.random(in: 0...100)

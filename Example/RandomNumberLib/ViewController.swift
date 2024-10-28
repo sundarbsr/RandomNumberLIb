@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import RandomNumberLib
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        let obj = RandomNumber()
+        print("Random Number is -> ",obj.randomNumbers())
         // Do any additional setup after loading the view, typically from a nib.
     }
 

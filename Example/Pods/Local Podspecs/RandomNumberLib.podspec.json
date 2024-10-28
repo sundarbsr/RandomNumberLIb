@@ -1,0 +1,22 @@
+{
+  "name": "RandomNumberLib",
+  "version": "0.1.0",
+  "summary": "A short description of RandomNumberLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sundarbsr2002@gmail.com/RandomNumberLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sundarbsr2002@gmail.com": "sundaresan.b@zohocorp.com"
+  },
+  "source": {
+    "git": "https://github.com/sundarbsr2002@gmail.com/RandomNumberLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RandomNumberLib/Classes/**/*"
+}

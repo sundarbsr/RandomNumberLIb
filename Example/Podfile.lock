@@ -1,0 +1,16 @@
+PODS:
+  - RandomNumberLib (0.1.0)
+
+DEPENDENCIES:
+  - RandomNumberLib (from `../`)
+
+EXTERNAL SOURCES:
+  RandomNumberLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RandomNumberLib: 7503dcf85fea9b846f9ca79db9c7218a38cd7187
+
+PODFILE CHECKSUM: 6a5d5ff166558a33230332a7ec2da3c4a6f95303
+
+COCOAPODS: 1.15.2

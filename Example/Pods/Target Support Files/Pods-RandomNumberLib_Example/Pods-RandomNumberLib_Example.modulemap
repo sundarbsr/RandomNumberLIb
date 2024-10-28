@@ -1,0 +1,6 @@
+framework module Pods_RandomNumberLib_Example {
+  umbrella header "Pods-RandomNumberLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

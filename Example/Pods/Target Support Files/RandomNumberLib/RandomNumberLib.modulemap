@@ -1,0 +1,6 @@
+framework module RandomNumberLib {
+  umbrella header "RandomNumberLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
